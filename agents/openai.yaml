@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spiral Oracle"
+  short_description: "Run one auditable oracle draw"
+  default_prompt: "Use $spiral-oracle once on this question. Freeze the permitted influence before drawing, then report what—if anything—the draw changed."
